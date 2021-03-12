@@ -1,0 +1,13 @@
+html, body {
+	/* background: #000000, */
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 0px;
+	margin: 14px;
+}
+
+#fin_jeu_speedrun {
+	font-size: 32px;
+}
