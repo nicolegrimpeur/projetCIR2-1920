@@ -1,6 +1,6 @@
-#Projet de CIRious Game CIR2 2019 2020
+# Projet de CIRious Game CIR2 2019 2020
 
-##Membres :
+## Membres :
 
 Florence Dubois,
 Cheikh Saliou Niang,
